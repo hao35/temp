@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+		<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+			<title>个人简历</title>
+			<style type="text/css">
+				h2{color: #8d8b00;font-family: 微软雅黑}
+				li{font-family: 微软雅黑;font-size: 20px}
+				div{border: 8px}
+				.info,.exper,.skill,.proj,.intro{width: 510px;}
+				.mytable{margin: 0 auto;}
+	</style>
+		</head>
+		<body>
+		<div class="mydiv">
+			<table class="mytable"border="4px" borderColor="#6633ff" width="500px" height="800px">
+				<tbody>
+					<tr>
+						<td>
+							<table border="4px" borderColor="#9966ff" width="100%" height="100%">
+								<tbody>
+									<tr>
+										<td>
+										<div>
+		<h2>基本信息</h2>
+		<div class="info">
+			<ul>
+				<li>姓名：郝晨</li>
+				<li>性别：女</li>
+				<li>出生年月：1991年3月5日</li>
+				<li>籍贯：辽宁省大连市</li>
+				<li>学历：研究生在读</li>
+				<li>联系方式：18601976034</li>
+			</ul>
+		</div>
+		<h2>教育经历</h2>
+			<div class="exper">
+				<ul>
+					<li>2009~2013 沈阳师范大学 软件工程 本科</li>
+					<li>2013至今 沈阳师范大学 计算机应用技术 硕士研究生</li>
+				</ul>
+			</div>
+		<h2>掌握的技能</h2>
+			<div class="skill">
+				<ul>
+					<li>大学英语四级 463分</li>
+					<li>熟练使用office软件</li>
+					<li>初步使用SQL Server 数据库</li>
+					<li>初步使用HTML+CSS</li>
+				</ul>
+			</div>
+		<h2>项目经验</h2>
+			<div class="proj">
+				<ul>
+					<li>青芒果商城系统 <br/>负责模块：集成测试</li>
+					<li>基于Microsoft SharePoint的幼儿园信息自动化系统 <br/>负责模块：系统需求、架构、测试</li>
+					<li>基于Microsoft SharePoint的中小学信息自动化系统 <br/>负责模块：系统需求、架构、测试</li>
+				</ul>
+			</div>
+		<h2>个人简介</h2>
+			<div class="intro">
+				<ul>
+					<li>研二在读生，可以实习6个月以上。读研的两年期间有跟随导师做项目的经验，熟悉软件开发流程。擅于从实践中学习技能，擅于自己思考问题。性格开朗善于合作。希望从事软件测试或其他计算机专业相关工作</li>
+				</ul>
+			</div>
+	</div></td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+		</body>
+		
+</html>
